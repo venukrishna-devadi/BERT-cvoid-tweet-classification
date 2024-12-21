@@ -1,23 +1,61 @@
-<h1 align="center">Hi 👋, I'm Venu Devadi</h1>
-<h3 align="center">A passionate LLM and NLP Engineer</h3>
+# Venu Gopal Krishna Devadi 🌟
+👨‍💻 **Data Science Graduate Student** | 🎓 Saint Peter’s University, Jersey City, NJ  
+💡 Passionate about **Natural Language Processing (NLP)**, **Deep Learning**, and leveraging AI for innovative problem-solving.  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=venukrishna-devadi&label=Profile%20views&color=0e75b6&style=flat" alt="venukrishna-devadi" /> </p>
+---
 
-- 🔭 I’m currently working on **NLP Projects**
+## 👩‍💻 About Me
+I am currently pursuing a **Master of Science in Data Science** with a strong focus on **Transformer models**, **NLP**, and **Deep Learning**. My academic and professional journey has revolved around developing cutting-edge AI models and tackling real-world challenges in text and image processing.
 
-- 🌱 I’m currently learning **LLM Models and Multimodal LLM's**
+---
 
-- 👯 I’m looking to collaborate on **LLM Projects**
+## 📚 Academic Projects
+### **Multilingual Language Translator**
+- Built a Transformer-based model to translate English into Hindi and Telugu using custom tokenization with BERT.
+- Implemented top-k sampling for real-time, user-selectable language translations.  
+**[View Project](#)**  
 
-- 👨‍💻 All of my projects are available at [https://github.com/venukrishna-devadi](https://github.com/venukrishna-devadi)
+### **Anime Character Image Classification**
+- Leveraged EfficientNet B2 architecture for accurate anime character classification.
+- Achieved high accuracy through advanced transfer learning techniques.  
+**[View Project](#)**  
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/venu-devadi-2350b3252/](https://www.linkedin.com/in/venu-devadi-2350b3252/)
+### **COVID Tweet Classification**
+- Designed and trained a BERT-based NLP model for real-time tweet classification.
+- Contributed to public health monitoring during the pandemic.  
+**[View Project](#)**  
 
-- 💬 Ask me about **Transformers, LLM's Architecture**
+### **Machine Learning Doubt Clarifier Chatbot**
+- Developed a chatbot using T5 and GPT models to handle user queries in machine learning and data science.  
+**[View Project](#)**  
 
-- 📫 How to reach me **venukrishnadevadi@gmail.com**
+---
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/venu-devadi-2350b3252/](https://www.linkedin.com/in/venu-devadi-2350b3252/)
+## 📄 Publications
+- **Infodemic Management using Natural Language Processing: A COVID-19 Case Study**  
+  Presented at **AMIA 2024 Annual Symposium – P157**, San Francisco, CA.  
+
+- **Information Management using Natural Language Processing: A COVID-19 Case Study**  
+  Accepted in *Advances in Healthcare using Machine Learning*, Taylor and Francis.  
+
+---
+
+## 🛠️ Skills
+- **Programming**: Python  
+- **Tools & Frameworks**: PyTorch, TensorFlow/Keras  
+- **Techniques**: Transformer Models, Hyperparameter Tuning, Transfer Learning  
+
+---
+
+## 🌱 Let's Collaborate!
+I’m open to exploring opportunities in **AI research**, **NLP applications**, and **innovative deep learning projects**. Feel free to connect or contribute!  
+
+📧 **venukrishnadevadi@gmail.com**  
+🔗 **[LinkedIn](https://linkedin.com/in/venu-devadi-2350b3252/)**  
+
+---
+
+✨ Check out my repositories and projects for more! 😊
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
