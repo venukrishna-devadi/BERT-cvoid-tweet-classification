@@ -72,7 +72,52 @@ This repository contains the code and methodology for a binary classification ta
 Extend the classification task to multi-label classification for categorizing tweets into themes like prevention, outbreak, and symptoms.
 Incorporate additional pre-trained models like RoBERTa or DistilBERT for comparative analysis.
 
-## 📖 About the Author
-I’m Venu Gopal Krishna Devadi, a graduate student in Data Science at Saint Peter’s University, specializing in Natural Language Processing and Deep Learning. This project is a part of my academic exploration into advanced AI techniques.
+## 📖 About the Author  
+I’m **Venu Gopal Krishna Devadi**, a graduate student specializing in **Data Science** at Saint Peter’s University. My interests lie in **Natural Language Processing**, **Transformer Models**, and applying **Deep Learning** to solve real-world challenges.  
 
-Feel free to explore, fork, and contribute! 😊
+### Other Relevant Projects  
+- **Multilingual Language Translator**: Transformer-based model translating English to Hindi and Telugu.  
+- **Anime Character Image Classification**: Using EfficientNet B2 for advanced image recognition.  
+- **Machine Learning Doubt Clarifier Chatbot**: Leveraging GPT and T5 models for ML query resolution.  
+
+### Publications  
+- **"Infodemic Management using Natural Language Processing: A COVID-19 Case Study"**  
+  Presented at AMIA 2024 Annual Symposium – P157, San Francisco, CA.  
+
+- **"Information Management using Natural Language Processing: A COVID-19 Case Study"**  
+  Accepted in *Advances in Healthcare using Machine Learning*, Taylor and Francis.  
+
+---
+
+## 🔗 Connect with Me  
+- **Email**: venukrishnadevadi@gmail.com  
+- **LinkedIn**: [linkedin.com/in/venu-devadi-2350b3252](https://linkedin.com/in/venu-devadi-2350b3252/)  
+
+---
+
+## 🛠️ Getting Started  
+
+### Prerequisites  
+- Python 3.7+  
+- Libraries: `pandas`, `numpy`, `tensorflow`, `torch`, `sklearn`, `tweepy`, `matplotlib`  
+
+### Installation  
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/yourusername/COVID-Twitter-MultiLabel-Classification.git
+   cd COVID-Twitter-MultiLabel-Classification
+
+2. Install required libraries:  
+   pip install -r requirements.txt
+   
+## 📂 Repository Files
+Notebooks: Code for binary and multi-label classification.
+Data: Scripts to preprocess and load data.
+Results: Visualization of model performance metrics.
+
+## 🚀 Future Work
+Extend to a broader dataset, including unverified accounts.
+Experiment with zero-shot classification techniques.
+Explore explainability techniques to enhance model transparency.
+
+Feel free to fork, star ⭐, and contribute to this repository! 😊
